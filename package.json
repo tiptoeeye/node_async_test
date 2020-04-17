@@ -1,0 +1,25 @@
+{
+  "name": "node_async_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiptoeeye/node_async_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiptoeeye/node_async_test/issues"
+  },
+  "homepage": "https://github.com/tiptoeeye/node_async_test#readme",
+  "dependencies": {
+    "ccxt": "^1.26.45",
+    "ccxws": "^0.32.0",
+    "dateformat": "^3.0.3",
+    "node-cron": "^2.0.3"
+  }
+}
